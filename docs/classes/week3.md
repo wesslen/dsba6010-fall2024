@@ -9,6 +9,7 @@ title: Week 3 - Prompt Engineering
 
 ## Required Readings
 - [Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/)
+- [F*&k you, Show me the Prompt](https://hamel.dev/blog/posts/prompt/)
 - [Explainprompt.com](https://www.explainprompt.com/)
 
 ## Optional Reading
