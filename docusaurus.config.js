@@ -6,9 +6,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'uncc-dsba',
+  organizationName: 'wesslen',
   projectName: 'dsba6010-fall2024',
-
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -19,10 +18,13 @@ const config = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarCollapsed: false,
+          // routeBasePath: '/', // Serve docs at the site root
+          sidebarPath: './sidebars.js',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        blog: false, // Disable blog
       },
     ],
   ],
@@ -45,7 +47,7 @@ const config = {
           type: 'doc',
           docId: 'classes/week1',
           position: 'left',
-          label: 'Modules',
+          label: 'Classes',
         },
         {
           type: 'doc',
