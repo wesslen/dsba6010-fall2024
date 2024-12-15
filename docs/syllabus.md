@@ -18,7 +18,7 @@ description: "Course syllabus for DSBA 6010: Applications of Large Language Mode
 **Ryan Wesslen, Ph.D.**  
 - Office: Virtual by appointment
 - Email: rwesslen@charlotte.edu
-- Course Website: Canvas
+- Course Website: [https://dsba6010-fall2024.netlify.app](https://dsba6010-fall2024.netlify.app) and Canvas
 
 ## Course Description
 
@@ -39,8 +39,8 @@ This special topics course examines the latest developments in Large Language Mo
 - Additional handouts, slides, assignments, and resources will be posted on Canvas
 
 ### Recommended Textbooks
-- Janna Lipenkova, *The Art of AI Product Management: A guide for product managers* (under development), $24
-- Christopher Brousseau and Matthew Sharp, *LLMs in Production: From language models to successful products* (under development), $24
+- Janna Lipenkova, [*The Art of AI Product Management: A guide for product managers*](https://www.manning.com/books/the-art-of-ai-product-management) (under development), $24
+- Christopher Brousseau and Matthew Sharp, [*LLMs in Production: From language models to successful products*](https://www.manning.com/books/llms-in-production) (under development), $24
 
 ## Grading Structure
 

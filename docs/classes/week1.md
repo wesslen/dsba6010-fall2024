@@ -1,8 +1,11 @@
 ---
-id: week1
-title: "Week 1: Intro to course. Interacting with LLMs"
-sidebar_label: Week 1
+sidebar_position: 1
+title: Week 1 - Introduction to LLMs
 ---
+
+# Introduction to Large Language Models
+
+**Objective**: Learn the fundamentals of accessing and querying common LLM APIs and local models. Students will gain hands-on experience with different ways of interacting with LLMs through APIs and local deployment.
 
 ## Required Resources
 
@@ -17,3 +20,4 @@ sidebar_label: Week 1
 
 ## Optional Resources
 - [Simon Willison's llm package](https://llm.datasette.io/en/stable/index.html)
+- [📺 Simon Willison's LLMs on the command line](https://parlance-labs.com/education/applications/simon_llm_cli/)

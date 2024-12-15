@@ -43,7 +43,7 @@ const config = {
         },
         {
           type: 'doc',
-          docId: 'classes/week1',
+          docId: 'modules/introduction',
           position: 'left',
           label: 'Modules',
         },
