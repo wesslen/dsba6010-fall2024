@@ -1,8 +1,8 @@
 const config = {
   title: 'DSBA 6010: Applications of LLMs',
   tagline: 'Special Topics in DSBA - Fall 2024',
-  url: 'https://dsba6010-fall2024.uncc.edu',
-  baseUrl: '/',
+  url: 'https://dsba6010-fall2024.netlify.app', // Url to your site with no trailing slash
+  baseUrl: '/', // Base directory of your site relative to your repo
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -80,10 +80,6 @@ const config = {
             {
               label: 'Syllabus',
               to: '/docs/syllabus',
-            },
-            {
-              label: 'Schedule',
-              to: '/docs/schedule',
             },
           ],
         },

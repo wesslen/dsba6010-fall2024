@@ -23,4 +23,4 @@ Students will work in groups of four to develop an LLM-based application through
 3. **Project Milestone 3** (Nov 21): Advanced features
 4. **Final Presentation** (Dec 12): Complete solution
 
-[View detailed project information in syllabus](/docs/syllabus#class-project)
+[View detailed project information in syllabus](/docs/syllabus)
