@@ -2,6 +2,7 @@ module.exports = {
   docs: [
     'syllabus',
     'office-hours',
+    'midterm-study-guide',
     {
       type: 'category',
       label: 'Classes',
