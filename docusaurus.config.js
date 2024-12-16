@@ -17,7 +17,7 @@ const config = {
           editUrl: 'https://github.com/wesslen/dsba6010-fall2024/edit/main/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
-          sidebarCollapsed: false,
+          sidebarCollapsed: true,
           // routeBasePath: '/', // Serve docs at the site root
           sidebarPath: './sidebars.js',
         },
