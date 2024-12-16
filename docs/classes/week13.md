@@ -9,7 +9,7 @@ title: "Week 13: Ethics & Society"
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vStYzYPJYuM7m8nZrDKgo8godn5miLzMeGYoQdMZrVmGkXRfF6aCY6yE5Ml4vBs-HL3qVoxgcLwdsa8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vStYzYPJYuM7m8nZrDKgo8godn5miLzMeGYoQdMZrVmGkXRfF6aCY6yE5Ml4vBs-HL3qVoxgcLwdsa8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Required Readings
 - Goldman Sachs: Gen AI: too much spend, too little benefit?: An analysis of the current state of generative AI investments and their economic impact.
