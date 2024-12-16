@@ -6,7 +6,11 @@ title: Project Milestone 1
 # Project Milestone 1
 
 ## Goal
-Develop an initial prototype of an LLM inference + chat interface.
+Develop an initial prototype of an LLM inference API + chat interface.
+
+![](/img/api-demo.png)
+
+![](/img/app-demo.png)
 
 ## Deliverables
 1. A word, google doc, or pdf file write up (likely 1-2 pages) summarizing progress and questions
@@ -19,7 +23,7 @@ Only 1 member of the team needs to submit for the group.
 ### 1. Repository Setup
 - Create a new repo in the course's [GitHub organization](https://github.com/dsba6010-llm-applications)
 - One repo per group
-- Use the course's [modal llama3 8B inference repo](https://github.com/dsba6010-llm-applications/modal-llama-3-8b-serving) as a starting point
+- Use the course's [`modal` Llama 3 8B Instruct API inference repo](https://github.com/dsba6010-llm-applications/modal-llama-3-8b-serving) as a starting point
 
 ### 2. For LLMOps/AI App Developers
 - Explore the [api.py file](https://github.com/dsba6010-llm-applications/modal-llama-3-8b-serving/blob/main/src/api.py)

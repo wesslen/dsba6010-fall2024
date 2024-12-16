@@ -18,8 +18,10 @@ const config = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarCollapsed: true,
+          routeBasePath: '/', // This makes docs the root
+          sidebarPath: require.resolve('./sidebars.js'),
           // routeBasePath: '/', // Serve docs at the site root
-          sidebarPath: './sidebars.js',
+          // sidebarPath: './sidebars.js',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -51,15 +53,21 @@ const config = {
         },
         {
           type: 'doc',
+          docId: 'case-studies/overview',
+          position: 'left',
+          label: 'Case Studies',
+        },
+        {
+          type: 'doc',
           docId: 'project/overview',
           position: 'left',
           label: 'Project',
         },
         {
           type: 'doc',
-          docId: 'case-studies/overview',
+          docId: 'video-responses/overview',
           position: 'left',
-          label: 'Case Studies',
+          label: 'Video Responses',
         },
         {
           href: 'https://canvas.uncc.edu/courses/225610',
@@ -73,47 +81,43 @@ const config = {
         },
       ],
     },
-    footer: {
-      style: 'dark',
-      links: [
-        {
-          title: 'Course',
-          items: [
-            {
-              label: 'Syllabus',
-              to: '/docs/syllabus',
-            },
-          ],
-        },
-        {
-          title: 'Resources',
-          items: [
-            {
-              label: 'Canvas',
-              href: 'https://canvas.uncc.edu/courses/225610',
-            },
-            {
-              label: 'Office Hours',
-              to: '/docs/office-hours',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'GitHub',
-              href: 'https://github.com/wesslen/dsba6010-fall2024',
-            },
-            {
-              label: 'UNCC DSBA',
-              href: 'https://dsba.uncc.edu',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} Ryan Wesslen. Built with Docusaurus.`,
-    },
+    // footer: {
+    //   style: 'dark',
+    //   links: [
+    //     {
+    //       title: 'Course',
+    //       items: [
+    //         {
+    //           label: 'Syllabus',
+    //           to: '/docs/syllabus',
+    //         },
+    //       ],
+    //     },
+    //     {
+    //       title: 'Resources',
+    //       items: [
+    //         {
+    //           label: 'Canvas',
+    //           href: 'https://canvas.uncc.edu/courses/225610',
+    //         },
+    //       ],
+    //     },
+    //     {
+    //       title: 'More',
+    //       items: [
+    //         {
+    //           label: 'GitHub',
+    //           href: 'https://github.com/wesslen/dsba6010-fall2024',
+    //         },
+    //         {
+    //           label: 'UNCC DSBA',
+    //           href: 'https://dsba.uncc.edu',
+    //         },
+    //       ],
+    //     },
+    //   ],
+    //   copyright: `Copyright © ${new Date().getFullYear()} Ryan Wesslen. Built with Docusaurus.`,
+    // },
     prism: {
       theme: require('prism-react-renderer/themes/github'),
       darkTheme: require('prism-react-renderer/themes/dracula'),

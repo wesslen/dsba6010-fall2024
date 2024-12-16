@@ -7,6 +7,10 @@ title: Week 2 - AI Applications and Tasks
 
 **Objective**: Explore practical applications of LLMs and understand how to conceptualize LLM-based products. Students will learn about different types of AI tasks and how to approach product development with LLMs.
 
+## Slides
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOq-sw8zHCBAq47OWDbxgk-Hv8u_En_apHmeKkg3wKKHC36-tvvgY0T1KlSMDbIYmnGdQOIS1WR3V9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Required Readings
 - [16 Changes to the Way Enterprises Are Building and Buying Generative AI](https://a16z.com/generative-ai-enterprise-2024/)
 - [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/)

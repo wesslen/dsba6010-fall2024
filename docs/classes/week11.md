@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
 title: Week 11 - Evals & Data Curation
 ---
 

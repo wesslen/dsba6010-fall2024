@@ -1,6 +1,7 @@
 module.exports = {
   docs: [
     'syllabus',
+    // 'office-hours',
     {
       type: 'category',
       label: 'Classes',
@@ -12,10 +13,8 @@ module.exports = {
         'classes/week6',
         'classes/week7',
         'classes/week9',
-        'classes/week10',
         'classes/week11',
         'classes/week12',
-        'classes/week13'
       ],
     },
     {
@@ -44,17 +43,6 @@ module.exports = {
         'project/milestone3',
         'project/final-submission',
         'project/final-presentation'
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Video Responses',
-      items: [
-        'video-responses/overview',
-        'video-responses/video1',
-        'video-responses/video2',
-        'video-responses/video3',
-        'video-responses/video4',
       ],
     },
     'midterm-study-guide',

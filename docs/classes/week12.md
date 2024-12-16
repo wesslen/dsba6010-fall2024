@@ -1,11 +1,15 @@
 ---
-sidebar_position: 9
+sidebar_position: 10
 title: Week 12 - LLMs in Production
 ---
 
 # LLMs in Production
 
 **Objective**: Learn best practices for deploying LLMs in production environments. Students will understand the challenges and solutions for running LLMs at scale.
+
+## Slides
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJQELXKHG84oRgGbeWpHJSwOVgx2H7A54vxf_MU1CUYIItgpSqDg-GSUQQIgp4bG8RGqQ1DZuL9OEX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Required Readings
 - [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)

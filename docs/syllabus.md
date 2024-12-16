@@ -1,6 +1,8 @@
 ---
 id: syllabus
 title: Course Syllabus
+slug: /
+sidebar_position: 1
 sidebar_label: Syllabus
 description: "Course syllabus for DSBA 6010: Applications of Large Language Models (LLMs)"
 ---

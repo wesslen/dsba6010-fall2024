@@ -25,4 +25,4 @@ For more details on the roles, view the [Project Roles](roles.md) page.
 3. [**Project Milestone 3** (Nov 21): Advanced features](milestone3.md)
 4. [**Final Deliverable**](final-submission.md) and [**Final Presentation**](final-presentation.md) (Dec 12): Complete solution
 
-[View detailed project information in syllabus](/docs/syllabus)
+[View detailed project information in syllabus](/)
