@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Project Roles
 ---
 
-# Project & Roles
+# Project Roles
 
 ## Project Overview
 

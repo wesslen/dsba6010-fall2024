@@ -1,13 +1,11 @@
 module.exports = {
   docs: [
     'syllabus',
-    'office-hours',
-    'midterm-study-guide',
+    // 'office-hours',
     {
       type: 'category',
       label: 'Classes',
       items: [
-        'classes/index',
         'classes/week1',
         'classes/week2',
         'classes/week3',
@@ -42,5 +40,6 @@ module.exports = {
         'project/roles'
       ],
     },
+    'midterm-study-guide',
   ],
 };
