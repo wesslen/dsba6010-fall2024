@@ -1,6 +1,6 @@
 ---
 sidebar_position: 8
-title: "Week 10: Fine Tuning"
+title: "Week 10 - Fine Tuning with axolotl"
 ---
 
 # Week 10: Fine Tuning with axolotl and modal
