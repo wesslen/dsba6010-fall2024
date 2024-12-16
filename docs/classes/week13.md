@@ -1,6 +1,6 @@
 ---
 sidebar_position: 11
-title: "Week 13: Ethics & Society"
+title: "Week 13 - Ethics & Society"
 ---
 
 # LLMs: Ethics & Society
