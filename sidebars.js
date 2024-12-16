@@ -37,7 +37,12 @@ module.exports = {
       label: 'Project',
       items: [
         'project/overview',
-        'project/roles'
+        'project/roles',
+        'project/milestone1',
+        'project/milestone2',
+        'project/milestone3',
+        'project/final-submission',
+        'project/final-presentation'
       ],
     },
     'midterm-study-guide',

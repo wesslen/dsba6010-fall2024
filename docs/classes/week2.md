@@ -13,7 +13,7 @@ title: Week 2 - AI Applications and Tasks
 - [Why Host Your Own LLMs?](https://www.marble.onl/posts/why_host_your_own_llm.html)
 
 ## Project Materials
-- [Project Milestone 1](../project/milestones/milestone1.md) due Sept 12
+- [Project Milestone 1](../project/milestone1.md) due Sept 12
 
 ## Optional Resources
 - [PDF-to-Podcast](https://pdf-to-podcast.com/)

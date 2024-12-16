@@ -20,9 +20,9 @@ For more details on the roles, view the [Project Roles](roles.md) page.
 
 ## Timeline
 
-1. [**Project Milestone 1** (Sept 12): Initial prototype](milestones/milestone1.md)
-2. [**Project Milestone 2** (Oct 24): RAG integration](milestones/milestone2.md)
-3. [**Project Milestone 3** (Nov 21): Advanced features](milestones/milestone3.md)
-4. [**Final Deliverable**](milestones/final-submission.md) and [**Final Presentation**](milestones/final-presentation.md) (Dec 12): Complete solution
+1. [**Project Milestone 1** (Sept 12): Initial prototype](milestone1.md)
+2. [**Project Milestone 2** (Oct 24): RAG integration](milestone2.md)
+3. [**Project Milestone 3** (Nov 21): Advanced features](milestone3.md)
+4. [**Final Deliverable**](final-submission.md) and [**Final Presentation**](final-presentation.md) (Dec 12): Complete solution
 
 [View detailed project information in syllabus](/docs/syllabus)

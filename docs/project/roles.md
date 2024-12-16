@@ -11,7 +11,7 @@ The class will work together to conceptualize, design, and prototype an LLM-base
 
 In groups of four students, you will work and iterate on delivering a Proof-of-Concept (MVP, Minimum Viable Product) LLM application across four different project milestones.
 
-To choose groups/roles, each student will complete the [role/project questionnaire](https://forms.gle/hnu13MJkCVYWYGTJ7) after the first class, ranking their preference of the four roles. You may request preferred students who you know who you want to work with, which will be taken into consideration.
+To choose groups/roles, each student will complete the role/project questionnaire after the first class, ranking their preference of the four roles. You may request preferred students who you know who you want to work with, which will be taken into consideration.
 
 ## Roles
 
@@ -55,13 +55,13 @@ Manages the operational aspects of LLM deployment and maintenance. Responsible f
 
 This project will follow a [spiral development pattern](https://www.geeksforgeeks.org/software-engineering-spiral-model/), where students will have four deliverables:
 
-1. **Project Milestone 1** (Sept 12): Initial prototype of an LLM inference engine (e.g., Modal) with initial prompt engineering
+1. [**Project Milestone 1**](milestone1.md) (Sept 12): Initial prototype of an LLM inference engine (e.g., Modal) with initial prompt engineering
 
-2. **Project Milestone 2** (Oct 24): 2nd iteration of the prototype, improving on identified gaps in the product and integrating at least (initial) Retrieval Augmented Generation
+2. [**Project Milestone 2**](milestone2.md) (Oct 24): 2nd iteration of the prototype, improving on identified gaps in the product and integrating at least (initial) Retrieval Augmented Generation
 
-3. **Project Milestone 3** (Nov 21): 3rd iteration which could include adding Fine Tuning, Evals, and/or improved Production latency
+3. [**Project Milestone 3**](milestone3.md) (Nov 21): 3rd iteration which could include adding Fine Tuning, Evals, and/or improved Production latency
 
-4. **Final Submission** (Dec 12, final exam date): Operational prototype, GitHub Repo, write up and in-class presentation
+4. [**Final Submission**](final-submission.md) and [**Final Presentation**](final-presentation.md) (Dec 12, final exam date): Operational prototype, GitHub Repo, write up and in-class presentation
 
 ## Example Implementation
 
@@ -79,7 +79,9 @@ These are just a few initial ideas for your project:
 
 - **Weather forecaster app**: Use a weather API (ex: [api.weather.gov](https://api.weather.gov/points/38.8894,-77.0352)) to auto-generate daily weather reports, augmenting it with a knowledge base. Alternatively, you could do something similar with other APIs like [stocks](https://modal.com/docs/examples/fetch_stock_prices).
 
-- **Retrieval Augmented Generation with custom "in-the-wild" dataset**: For example:
+- **Retrieval Augmented Generation with custom "in-the-wild" dataset**: 
+
+For example:
   - Modal data examples like [web scraping](https://modal.com/docs/examples/web-scraper)
   - [Podcast transcription](https://modal.com/docs/examples/whisper-transcriber)
   - [HackerNews SlackBot](https://modal.com/docs/examples/hackernews_alerts)

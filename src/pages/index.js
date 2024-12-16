@@ -8,28 +8,24 @@ export default function Home() {
   
   const QuickLinks = [
     {
-      title: 'Course Syllabus',
+      title: '📚 Course Syllabus',
       link: '/docs/syllabus',
-      description: 'Course overview, objectives, and policies',
-      icon: '📚'
+      description: 'Course overview, objectives, and policies'
     },
     {
-      title: 'Project Details',
+      title: '🚀 Project Details',
       link: '/docs/project/overview',
-      description: 'Group project requirements and milestones',
-      icon: '🚀'
+      description: 'Group project requirements and milestones'
     },
     {
-      title: 'Case Studies',
+      title: '🔍 Case Studies',
       link: '/docs/case-studies/overview',
-      description: 'In-depth analysis of LLM applications',
-      icon: '🔍'
+      description: 'In-depth analysis of LLM applications'
     },
     {
-      title: 'Weekly Classes',
+      title: '📅 Weekly Classes',
       link: '/docs/classes/week1',
-      description: 'Course content and materials by week',
-      icon: '📅'
+      description: 'Course content and materials by week'
     }
   ];
 

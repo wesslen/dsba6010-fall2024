@@ -134,17 +134,17 @@ This schedule is tentative and subject to change. Updates will be announced in c
 1. [**August 22**: Introduction to Large Language Models (LLMs)](classes/week1.md)
 2. [**August 29**: AI Applications and Tasks](classes/week2.md)
 3. [**September 5**: Prompt Engineering](classes/week3.md)
-4. **September 12**: No class / [Project Milestone 1](project/milestones/milestone1.md)
+4. **September 12**: No class / [Project Milestone 1](project/milestone1.md)
 5. [**September 19**: LLM Fundamentals](classes/week5.md)
 6. [**September 26**: Retrieval-Augmented Generation (RAG)](classes/week6.md)
 7. [**October 3**: LLM UX and RAG Part 2](classes/week7.md)
-8. **October 10**: No Class - Online Exam / [Project Milestone 2](project/milestones/milestone2.md)
+8. **October 10**: No Class - Online Exam / [Project Milestone 2](project/milestone2.md)
 9. [**October 17**: LLM Fine-Tuning: When to Use it?](classes/week9.md)
 10. **October 24**: Implementing LLM Fine Tuning
 11. [**October 31**: LLM Data Curation, Evaluation & Benchmarks](classes/week11.md)
 12. [**November 7**: Deploying LLMs in Production](classes/week12.md)
 13. **November 14**: Ethics and Societal Impacts of LLMs
-14. **November 21**: No class — Group Check-in Meetings / [Project Milestone 3](project/milestones/milestone3.md)
-15. **December 12**: [Final Project Due](project/milestones/final-submission.md) and [Presentations](project/milestones/final-presentation.md)
+14. **November 21**: No class — Group Check-in Meetings / [Project Milestone 3](project/milestone3.md)
+15. **December 12**: [Final Project Due](project/final-submission.md) and [Presentations](project/final-presentation.md)
 
 *No classes on November 28 (Thanksgiving) and December 5 (Reading Day)*
