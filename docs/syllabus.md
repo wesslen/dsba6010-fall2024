@@ -20,7 +20,7 @@ description: "Course syllabus for DSBA 6010: Applications of Large Language Mode
 **Ryan Wesslen, Ph.D.**  
 - Office: Virtual by appointment
 - Email: rwesslen@charlotte.edu
-- Course Website: [https://dsba6010-fall2024.netlify.app](https://dsba6010-fall2024.netlify.app) and Canvas
+- Course Website: [https://dsba6010-fall2024.netlify.app](https://dsba6010-fall2024.netlify.app) and [Canvas](https://instructure.charlotte.edu/courses/225610)
 
 ## Course Description
 

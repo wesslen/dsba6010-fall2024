@@ -70,7 +70,7 @@ const config = {
           label: 'Video Responses',
         },
         {
-          href: 'https://canvas.uncc.edu/courses/225610',
+          href: 'https://instructure.charlotte.edu/courses/225610',
           label: 'Canvas',
           position: 'right',
         },
