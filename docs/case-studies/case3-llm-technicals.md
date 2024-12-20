@@ -5,7 +5,8 @@ title: Case Study 3 - LLM Technicals
 
 # LLM Fundamentals
 
-**Date**: September 19
+**Date**: September 19 ([Class 5](../classes/week5.md))
+
 **Presenters**: AI Application Developers
 
 ## Required Readings

@@ -5,7 +5,8 @@ title: Case Study 6 - GPU/Fine Tuning
 
 # GPU/Fine Tuning
 
-**Date**: October 17
+**Date**: October 17 ([Class 9](../classes/week9.md))
+
 **Presenters**: AI Application Developer
 
 ## Required Readings

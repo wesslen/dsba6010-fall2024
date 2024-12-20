@@ -5,7 +5,8 @@ title: Case Study 7 - Evals and Data Curation
 
 # Evals and Data Curation
 
-**Date**: October 31
+**Date**: October 31 ([Class 11](../classes/week11.md))
+
 **Presenters**: Data/Prompt Engineer
 
 ## Required Readings

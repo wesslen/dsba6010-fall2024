@@ -5,7 +5,8 @@ title: Case Study 8 - LLMs in Production
 
 # LLMs in Production
 
-**Date**: November 7
+**Date**: November 7 ([Class 12](../classes/week12.md))
+
 **Presenters**: LLMOps Developers
 
 ## Required Readings

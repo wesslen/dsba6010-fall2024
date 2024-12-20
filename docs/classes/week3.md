@@ -7,6 +7,10 @@ title: Week 3 - Prompt Engineering
 
 **Objective**: Master the techniques for effective prompt design and learn how to craft prompts that elicit desired responses from LLMs. Students will practice creating and optimizing prompts for various use cases.
 
+## Case Study
+
+[Prompt Engineering by the course Data/Prompt Engineers](../case-studies/case2-prompt-engineering.md)
+
 ## Required Readings
 - [Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/)
 - [F*&k you, Show me the Prompt](https://hamel.dev/blog/posts/prompt/)

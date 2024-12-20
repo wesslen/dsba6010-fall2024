@@ -5,7 +5,8 @@ title: Case Study 5 - Industry Best Practices
 
 # LLM Industry/Best Practices
 
-**Date**: October 3
+**Date**: October 3 ([Class 7](../classes/week7.md))
+
 **Presenters**: Product Managers
 
 ## Required Readings

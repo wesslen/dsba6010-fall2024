@@ -11,6 +11,10 @@ title: Week 2 - AI Applications and Tasks
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOq-sw8zHCBAq47OWDbxgk-Hv8u_En_apHmeKkg3wKKHC36-tvvgY0T1KlSMDbIYmnGdQOIS1WR3V9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+## Case Study
+
+[LLMs in Product Management by the course AI Product Managers](../case-studies/case1-product-management.md)
+
 ## Required Readings
 - [16 Changes to the Way Enterprises Are Building and Buying Generative AI](https://a16z.com/generative-ai-enterprise-2024/)
 - [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/)

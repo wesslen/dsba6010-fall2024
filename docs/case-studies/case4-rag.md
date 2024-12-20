@@ -5,7 +5,8 @@ title: Case Study 4 - RAG
 
 # Retrieval Augmented Generation
 
-**Date**: September 26
+**Date**: September 26 ([Class 6](../classes/week6.md))
+
 **Presenters**: LLMOps Developers
 
 ## Required Readings

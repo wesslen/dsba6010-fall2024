@@ -5,7 +5,8 @@ title: Case Study 1 - Product Management
 
 # LLMs in Product Management
 
-**Date**: August 29
+**Date**: August 29 ([Class 2](../classes/week2.md))
+
 **Presenters**: Product Managers
 
 ## Required Readings

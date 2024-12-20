@@ -7,6 +7,10 @@ title: Week 9 - Fine Tuning
 
 **Objective**: Learn when and how to apply fine-tuning techniques to customize LLMs for specific tasks. Students will understand different fine-tuning approaches and their practical applications.
 
+## Case Study
+
+[Fine Tuning by the course's AI App Developers](../case-studies/case6-fine-tuning.md)
+
 ## Required Readings
 - [Using CUDA on Modal](https://modal.com/docs/guide/cuda)
 - [How Much Does It Cost to Train a Large Language Model?](https://brev.dev/blog/llm-cost-estimate)

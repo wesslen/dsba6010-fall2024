@@ -7,6 +7,10 @@ title: Week 11 - Evals & Data Curation
 
 **Objective**: Master methods for evaluating LLM performance and curating high-quality training data. Students will learn how to create effective evaluation metrics and manage data for LLM applications.
 
+## Case Study
+
+[LLM Evals and Data Curation by the course's Data/Prompt Engineers](../case-studies/case7-evals-data.md)
+
 ## Required Readings
 - [How to Write Data Labeling/Annotation Guidelines](https://eugeneyan.com/writing/labeling-guidelines/)
 - [Data Flywheels for LLM Applications](https://www.sh-reya.com/blog/ai-engineering-flywheel/)

@@ -7,6 +7,10 @@ title: Week 7 - LLM UX & RAG Part II
 
 **Objective**: Explore advanced RAG techniques and learn principles of UX design for LLM applications. Students will learn how to create effective user experiences for LLM-powered applications.
 
+## Case Study
+
+[LLMs in UX and Industry by the course's AI Product Managers](../case-studies/case5-industry-practices.md)
+
 ## Required Readings
 - [Emerging UX Patterns for Generative AI Apps & Copilots](https://www.tidepool.so/blog/emerging-ux-patterns-for-generative-ai-apps-copilots)
 - [LLM From the Trenches: 10 Lessons Learned Operationalizing Models at GoDaddy](https://www.godaddy.com/resources/news/llm-from-the-trenches-10-lessons-learned-operationalizing-models-at-godaddy)

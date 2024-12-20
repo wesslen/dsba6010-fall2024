@@ -5,7 +5,8 @@ title: Case Study 2 - Prompt Engineering
 
 # Prompt Engineering
 
-**Date**: September 5
+**Date**: September 5 ([Class 3](../classes/week3.md))
+
 **Presenters**: Data/Prompt Engineers
 
 ## Required Readings

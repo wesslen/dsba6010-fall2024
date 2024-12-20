@@ -11,6 +11,10 @@ title: Week 12 - LLMs in Production
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJQELXKHG84oRgGbeWpHJSwOVgx2H7A54vxf_MU1CUYIItgpSqDg-GSUQQIgp4bG8RGqQ1DZuL9OEX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+## Case Study
+
+[LLMs in Production by the course's LLM Ops Developers](../case-studies/case8-production.md)
+
 ## Required Readings
 - [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 - [Optimizing Latency](https://hamel.dev/notes/llm/inference/03_inference.html)
