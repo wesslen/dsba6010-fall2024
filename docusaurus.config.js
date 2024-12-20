@@ -35,8 +35,8 @@ const config = {
     navbar: {
       title: 'DSBA 6010',
       logo: {
-        alt: 'UNCC DSBA Logo',
-        src: 'img/logo.svg',
+        alt: 'UNCC DSBA 6010',
+        src: 'img/course.png',
       },
       items: [
         {
